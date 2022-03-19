@@ -8,5 +8,7 @@ html {
 }
 
 h1 {
-  colour: #3f1622;
+  color: #3f1622;
+  font-family: "PT Sans", sans-serif;
+  font-size: 1.6rem;
 }
